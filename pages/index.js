@@ -3,6 +3,7 @@ import Head from 'next/head';
 const posts = [
   { title: 'React Testing', excerpt: 'Learn React Testing' },
   { title: 'React Testing 2', excerpt: 'Learn React Testing 2' },
+  { title: 'React Testing 3', excerpt: 'Learn React Testing 3' },
 ];
 
 export default function Home() {
